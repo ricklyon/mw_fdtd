@@ -1,7 +1,7 @@
 # mw-fdtd
 
-Moving window FDTD implementation (work in progress). Window can follow arbitrary paths through a geometry (limited
-to 10 degree rotations at a time).
+Moving window FDTD implementation (work in progress). Window can follow arbitrary paths through a geometry, limited
+to 10 degree rotations at a time.
 
 ## Installation
 
